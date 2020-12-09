@@ -1,0 +1,184 @@
+<!-- HTML CODE FOR MAIN FILE-->
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+    
+<title>Practical no 10</title>
+
+</head>
+
+
+<frameset rows="*,*">
+  
+<frame src="Frame1.html">
+  
+<frameset cols="*,*,*">
+    
+<frame src="Frame2.html">
+    
+<frame src="Frame3.html">
+    
+<frame src="Frame4.html">
+  
+</frameset>
+
+</frameset>
+
+
+
+</html>
+
+<!--HTML CODE FOR FRAME 1-->
+<!DOCTYPE html>
+ 
+<html>
+
+
+<head>
+    
+<title>Frame1</title>
+
+</head>
+
+
+<body>
+  
+<h1 align="center">Frame 1</h1>
+  
+<h2>Contents of Frame 1</h2>
+
+
+</body>
+
+
+</html>
+
+<!--HTML CODE FOR FRAME 2-->
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+    
+<title>Frame 2</title>
+
+</head>
+
+
+<body>
+  
+<h1 align="center">Frame 2</h1>
+ 
+ <h2>Links to an external websites :</h2>
+  
+<a href="https://www.yahoo.com" target="blank">Search on Yahoo</a>
+  <br>
+  
+<a href="https://www.google.com">Search on Google</a>
+  <br>
+  
+<h2>Submit feedback :</h2>
+  
+<h5>Click on submit to write your feedback</h5>
+  
+<a href="mailto:siddhantkeste@gmail.com" target="blank">"SUBMIT"</a>
+
+
+</body>
+
+
+</html>
+
+<!--HTML CODE FOR FRAME 3-->
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+    
+<title>Frame 3</title>
+
+</head>
+
+
+<body>
+  
+<h1 align="center">Frame 3</h1>
+  
+<h2>An Ordered Nested List:</h2>
+  
+<ol>
+    
+<li>Coffee</li>
+    
+<li>Tea</li>
+    
+<ol type="a">
+      
+<li>Black Tea</li>
+      
+<li>Green Tea</li>
+      
+<ol type="i">
+        
+<li>China</li>
+        
+<li>Africa</li>
+      
+</ol>
+    
+</ol>
+    
+<li>Milk</li>
+  
+</ol>
+
+
+</body>
+
+
+</html>
+
+<!--HTML CODE FOR FRAME 4-->
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+    
+<title>Frame 4</title>
+
+</head>
+
+
+<body>
+  
+<h1 align="center">Frame 4</h1>
+ 
+<h2 align="center">SUPERCARS</h2>
+  
+  
+<img src="la voiture noire.jpeg" alt="Cars" hight="450" width="300" border="2" hspace="3" vspace="3">
+  
+  
+<img src="lamborghini veneno roadster.jpeg" hight="350" width="200" border="2" hspace="3" vspace="3">
+  
+  
+<img src="koenigsegg ccxr trevita.jpeg" alt="Cars" hight="250" width="100" border="2" hspace="3" vspace="3">
+  
+  
+  
+  
+ 
+
+
+</body>
+
+
+</html>
