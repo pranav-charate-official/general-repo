@@ -1,68 +1,63 @@
 h1 {
-   color: #e60073;
-   font-family: 'Acme';
-   font-size: 50px;
-   text-align: center;
-
+  color: #e60073;
+  font-family: "Acme";
+  font-size: 50px;
+  text-align: center;
 }
 
 h2 {
-   color: #FF630A;
-   font-family: 'Kaushan Script', cursive;
-   font-size: 30px;
-   margin: 20px 0 20px 0;
+  color: #ff630a;
+  font-family: "Kaushan Script", cursive;
+  font-size: 30px;
+  margin: 20px 0 20px 0;
 }
 
-
-
 p {
-   font-family: Playfair Display;
-   font-size: 18px;
-   margin: 0;
+  font-family: Playfair Display;
+  font-size: 18px;
+  margin: 0;
 }
 
 .flex-img-fet {
-   display: flex;
-   flex-wrap: wrap;
-   justify-content: space-evenly;
-   justify-content: center;
-   align-items: center;
-   
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  justify-content: center;
+  align-items: center;
 }
 
 .main-img {
-   /*border: 5px solid red;*/
-   display: inline-block;
+  /*border: 5px solid red;*/
+  display: inline-block;
 }
 
-.main-img>img {
-   height: 300px;
-   width: 270px;
-   margin: 0px;
-   padding: 0px;
+.main-img > img {
+  height: 300px;
+  width: 270px;
+  margin: 0px;
+  padding: 0px;
 }
 
 .icon-img {
-   height: 35px;
-   width: 25px;
-   margin: 4px 8px;
-   /*border: 2px solid blue;*/
-
+  height: 35px;
+  width: 25px;
+  margin: 4px 8px;
+  /*border: 2px solid blue;*/
 }
 
 .icon-img:hover {
-   background-color: #FDD6FF;
+  background-color: #fdd6ff;
 }
 
 .features {
-   font-size: 15px;
-   font-weight: bold;
-   /* display: inline-block; */
-   /*border: 5px solid green;*/
-   /* float: right 0px 0px; */
-   /* height: 300px; */
-   margin: 0;
-   vertical-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  /* display: inline-block; */
+  /*border: 5px solid green;*/
+  /* float: right 0px 0px; */
+  /* height: 300px; */
+  margin: 0;
+  vertical-align: center;
 }
 
 /*@media (max-width: 375px;) {
@@ -78,25 +73,24 @@ p {
 }*/
 
 .fet-tit {
-   /*border: 2px solid orange;*/
-   vertical-align: top;
-   display: inline-block;
-   height: 35px;
-   padding: 0 5px 0 5px;
-   text-align: center;
-   color: #8f00b3;
-   font-family: 'Vidaloka', serif;
-   font-style: italic;
-   line-height: 35px;
-
+  /*border: 2px solid orange;*/
+  vertical-align: top;
+  display: inline-block;
+  height: 35px;
+  padding: 0 5px 0 5px;
+  text-align: center;
+  color: #8f00b3;
+  font-family: "Vidaloka", serif;
+  font-style: italic;
+  line-height: 35px;
 }
 
 .fet-des {
-   /*border: 2px solid orange;*/
-   vertical-align: top;
-   display: inline-block;
-   height: 35px;
-   padding: 0 5px 0 5px;
-   font-weight: bolder;
-   line-height: 35px;
+  /*border: 2px solid orange;*/
+  vertical-align: top;
+  display: inline-block;
+  height: 35px;
+  padding: 0 5px 0 5px;
+  font-weight: bolder;
+  line-height: 35px;
 }
